@@ -1,0 +1,1 @@
+# G-rkan.Kaplan.u-ak.rezervasyon.uygulamas-
