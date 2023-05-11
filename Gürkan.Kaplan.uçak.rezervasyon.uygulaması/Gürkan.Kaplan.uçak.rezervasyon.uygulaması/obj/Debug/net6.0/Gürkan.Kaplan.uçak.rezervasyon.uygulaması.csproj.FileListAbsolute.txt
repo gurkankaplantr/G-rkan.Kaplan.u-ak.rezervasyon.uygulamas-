@@ -1,0 +1,15 @@
+C:\Users\gurka\source\repos\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\obj\Debug\net6.0\Gürkan.Kaplan.uçak.rezervasyon.uygulaması.csproj.AssemblyReference.cache
+C:\Users\gurka\source\repos\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\obj\Debug\net6.0\Gürkan.Kaplan.uçak.rezervasyon.uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurka\source\repos\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\obj\Debug\net6.0\Gürkan.Kaplan.uçak.rezervasyon.uygulaması.AssemblyInfoInputs.cache
+C:\Users\gurka\source\repos\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\obj\Debug\net6.0\Gürkan.Kaplan.uçak.rezervasyon.uygulaması.AssemblyInfo.cs
+C:\Users\gurka\source\repos\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\obj\Debug\net6.0\Gürkan.Kaplan.uçak.rezervasyon.uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\gurka\source\repos\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\bin\Debug\net6.0\Gürkan.Kaplan.uçak.rezervasyon.uygulaması.exe
+C:\Users\gurka\source\repos\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\bin\Debug\net6.0\Gürkan.Kaplan.uçak.rezervasyon.uygulaması.deps.json
+C:\Users\gurka\source\repos\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\bin\Debug\net6.0\Gürkan.Kaplan.uçak.rezervasyon.uygulaması.runtimeconfig.json
+C:\Users\gurka\source\repos\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\bin\Debug\net6.0\Gürkan.Kaplan.uçak.rezervasyon.uygulaması.dll
+C:\Users\gurka\source\repos\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\bin\Debug\net6.0\Gürkan.Kaplan.uçak.rezervasyon.uygulaması.pdb
+C:\Users\gurka\source\repos\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\obj\Debug\net6.0\Gürkan.Kaplan.uçak.rezervasyon.uygulaması.dll
+C:\Users\gurka\source\repos\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\obj\Debug\net6.0\refint\Gürkan.Kaplan.uçak.rezervasyon.uygulaması.dll
+C:\Users\gurka\source\repos\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\obj\Debug\net6.0\Gürkan.Kaplan.uçak.rezervasyon.uygulaması.pdb
+C:\Users\gurka\source\repos\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\obj\Debug\net6.0\Gürkan.Kaplan.uçak.rezervasyon.uygulaması.genruntimeconfig.cache
+C:\Users\gurka\source\repos\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\Gürkan.Kaplan.uçak.rezervasyon.uygulaması\obj\Debug\net6.0\ref\Gürkan.Kaplan.uçak.rezervasyon.uygulaması.dll

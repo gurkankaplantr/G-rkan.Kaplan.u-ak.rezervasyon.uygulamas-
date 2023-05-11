@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Gürkan.Kaplan.uçak.rezervasyon.uygulaması/1.0.0": {
+        "runtime": {
+          "Gürkan.Kaplan.uçak.rezervasyon.uygulaması.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gürkan.Kaplan.uçak.rezervasyon.uygulaması/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
