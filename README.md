@@ -1,1 +1,1 @@
-# G-rkan.Kaplan.u-ak.rezervasyon.uygulamas-
+Ucak rezervasyon uygulaması
